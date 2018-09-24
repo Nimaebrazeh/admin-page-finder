@@ -7,7 +7,7 @@ A Very Simple Python Script to find admin panel of any site. This project is com
 ```
 python admin-page-finder.py
 ```
-if you had problem with this command, use this command:
+if you had problem with top command, use this command instead:
 ```
 python2 admin-page-finder.py
 ```
