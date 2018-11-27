@@ -12,4 +12,5 @@ if you had problem with top command, use this command instead:
 python2 admin-page-finder.py
 ```
 <b>Note: </b> Before use this python script you must install python on your device.</b>
-<b>Note: </b> Please Follow My Website : https://nimaebrazeh.com
+<br>
+<b>Please Follow My Website : </b>  https://nimaebrazeh.com
